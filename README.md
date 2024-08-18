@@ -18,3 +18,8 @@ Run the script.
 Players take turns clicking on cells in the game window.
 The game enforces the Ultimate Tic-Tac-Toe rules.
 To restart the game, press the "R" key.
+
+- [x] Add the last move before replacing the sub-board with giant marker
+- [ ] Add a menu so that the players can select different variants of the game (sub-boards that have been won are not dead, etc)
+- [ ] Create a minimax AI that the player can compete against
+- [ ] Create a generative AI that the player can compete against
