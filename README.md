@@ -1,8 +1,7 @@
 # Ultimate-Tic-Tac-Toe
 This is an Ultimate Tic-Tac-Toe game for 2 players 
 
-![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/giopolykra/Ultimate-Tic-Tac-Toe/main/Screenshot.png))
-
+![alt text](https://github.com/giopolykra/Ultimate-Tic-Tac-Toe/blob/main/Screenshot.png?raw=true)
 
 Rules:
 The game starts with player X. After each move, the next player is sent to the sub-board corresponding to the cell clicked by the previous player.
