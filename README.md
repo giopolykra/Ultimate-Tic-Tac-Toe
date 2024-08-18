@@ -12,7 +12,6 @@ Players can restart the game by pressing the "R" key.
 Winning Conditions:
 A player wins a sub-board by having three in a row in any direction.
 A player wins the game by winning three sub-boards in a row on the main board.
-Input: Players input the sub-board index and the cell index within that sub-board.
 
 Running the Game:
 Run the script.
