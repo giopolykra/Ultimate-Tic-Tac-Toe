@@ -1,7 +1,7 @@
 # Ultimate-Tic-Tac-Toe
 This is an Ultimate Tic-Tac-Toe game for 2 players 
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/giopolykra/Ultimate-Tic-Tac-Toe/blob/main/Screenshot.png))
+![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/giopolykra/Ultimate-Tic-Tac-Toe/main/Screenshot.png))
 
 
 Rules:
